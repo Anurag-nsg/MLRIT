@@ -24051,6 +24051,66 @@
 },
 {
   "_id": {
+    "$oid": "66e3e30efe6c43b36e71b0bc"
+  },
+  "Firm": "Anamath",
+  "Code": "Ana-223",
+  "Name": "NARESH E",
+  "Father": "",
+  "Mobile": "",
+  "Phone1": "",
+  "Address": "",
+  "City": "",
+  "Metal": [
+    "Gold",
+    "Gold",
+    "Gold",
+    "Gold",
+    "Gold"
+  ],
+  "Items": [
+    "CHAIN@RING",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Gross": [
+    "12.3",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "Purity": [
+    "85",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "FineWeight": [
+    10.455,
+    "",
+    "",
+    "",
+    ""
+  ],
+  "ItemWiseValuation": [
+    77889.75,
+    0,
+    0,
+    0,
+    0
+  ],
+  "StartDate": "2024-09-12",
+  "Intrest": "2",
+  "PrincipalAmount": "61000",
+  "Valuation": "77890",
+  "__v": 0
+},
+{
+  "_id": {
     "$oid": "66e414392ea4c24cb710aaf6"
   },
   "Firm": "Anamath",
@@ -51051,69 +51111,9 @@
 },
 {
   "_id": {
-    "$oid": "66e3e30efe6c43b36e71b0bc"
-  },
-  "Firm": "Anamath",
-  "Code": "Ana-223",
-  "Name": "NARESH E",
-  "Father": "",
-  "Mobile": "",
-  "Phone1": "",
-  "Address": "",
-  "City": "",
-  "Metal": [
-    "Gold",
-    "Gold",
-    "Gold",
-    "Gold",
-    "Gold"
-  ],
-  "Items": [
-    "CHAIN@RING",
-    "",
-    "",
-    "",
-    ""
-  ],
-  "Gross": [
-    "12.3",
-    "",
-    "",
-    "",
-    ""
-  ],
-  "Purity": [
-    "85",
-    "",
-    "",
-    "",
-    ""
-  ],
-  "FineWeight": [
-    10.455,
-    "",
-    "",
-    "",
-    ""
-  ],
-  "ItemWiseValuation": [
-    77889.75,
-    "",
-    "",
-    "",
-    ""
-  ],
-  "StartDate": "2024-09-12",
-  "Intrest": "2",
-  "PrincipalAmount": "62000",
-  "Valuation": "77889",
-  "__v": 0
-},
-{
-  "_id": {
     "$oid": "66b6f848e59c30d5522c6bc2"
   },
-  "Firm": "Manemma",
+  "Firm": "Anamath",
   "Code": "MJ-48",
   "Name": "RAVINDHER CH",
   "Father": "",
